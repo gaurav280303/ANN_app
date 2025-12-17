@@ -1,5 +1,0 @@
-streamlit
-numpy
-joblib
-scikit-learn
-tensorflow==2.13.0
